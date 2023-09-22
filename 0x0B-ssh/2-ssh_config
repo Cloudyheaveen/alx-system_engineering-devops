@@ -1,0 +1,5 @@
+# Configures the SSH to our needs so
+# that you can connect to a server without typing a password
+Host *
+	IdentifyFile ~/.ssh/school
+	PasswordAuthentication no
