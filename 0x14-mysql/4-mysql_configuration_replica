@@ -33,7 +33,7 @@ datadir		= /var/lib/mysql
 log-error	= /var/log/mysql/error.log
 
 # By default we only accept connections from localhost
-# bind-address	= 54.157.132.235
+# bind-address	= 100.27.3.135
 
 # setting server id
 server-id  =  2
