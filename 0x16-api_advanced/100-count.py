@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Function that queries the Reddit API"""
+"""Function to count words in all hot posts of a given Reddit subreddit"""
 import requests
 
 
