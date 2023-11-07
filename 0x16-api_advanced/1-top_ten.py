@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Function that queries the Reddit API"""
+"""Function to print hot posts on a given Reddit subreddit"""
 import requests
 
 
